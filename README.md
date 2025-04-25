@@ -1,3 +1,8 @@
+[![](https://img.shields.io/badge/pytorch%20-1.9.1%20-success?logo=pytorch)]()
+[![](https://img.shields.io/badge/python%20-3.8%20-sucess?logo=python)]()
+[![](https://img.shields.io/badge/tqdm%20-4.65.0%20-success?logo=tqdm)]()
+[![](https://img.shields.io/badge/linux%20-gray?logo=linux)]()
+
 # CylE: Cylinder Embeddings for Multi-hop Reasoning over Knowledge Graphs
 
 This is the codebase for the paper [CylE: Cylinder Embeddings for Multi-hop Reasoning over Knowledge Graphs](https://aclanthology.org/2023.eacl-main.127/) (EACL 2023).
@@ -46,7 +51,7 @@ This is the codebase for the paper [CylE: Cylinder Embeddings for Multi-hop Reas
 
 If you find this code useful for your research, please consider citing the following paper:
 
-```
+```bib
 @inproceedings{nguyen2023cyle,
     title = "{C}yl{E}: Cylinder Embeddings for Multi-hop Reasoning over Knowledge Graphs",
     author = "Nguyen, Chau Duc Minh  and
@@ -58,7 +63,8 @@ If you find this code useful for your research, please consider citing the follo
     year = "2023",
     address = "Dubrovnik, Croatia",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2023.eacl-main.127",
+    url = "https://aclanthology.org/2023.eacl-main.127/",
+    doi = "10.18653/v1/2023.eacl-main.127",
     pages = "1736--1751",
 }
 ```
